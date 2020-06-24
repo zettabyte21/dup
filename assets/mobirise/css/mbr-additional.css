@@ -624,12 +624,12 @@ section.lazy-placeholder:after {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #b2ccd2;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #b2ccd2;
+  background: #000000;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -713,7 +713,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #b2ccd2;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1011,8 +1011,8 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-s2IxMW4oBg {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 75px;
+  padding-bottom: 15px;
   background-color: #98a2c1;
 }
 .cid-s2IxMW4oBg h4 {
@@ -1047,8 +1047,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s2P9ms56lE {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-s2P9ms56lE .mbr-section-subtitle {
@@ -1135,6 +1135,14 @@ section.lazy-placeholder:after {
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
 }
+.cid-s2Q1R8gRTZ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ccc714;
+}
+.cid-s2Q1R8gRTZ .media-container-row .mbr-text {
+  color: #ffffff;
+}
 .cid-s2IxytW5sa {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1166,8 +1174,8 @@ section.lazy-placeholder:after {
   margin: 5px 10px;
   line-height: 40px;
   transition: all .2s;
-  color: #ffffff;
-  background: #145ecc;
+  color: #000000;
+  background: #ccc714;
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -1550,7 +1558,7 @@ section.lazy-placeholder:after {
 .cid-qTkAaeaxX5 {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #2e2e2e;
+  background-color: #000000;
 }
 @media (max-width: 767px) {
   .cid-qTkAaeaxX5 .content {
@@ -1682,7 +1690,7 @@ section.lazy-placeholder:after {
 .cid-s2PVuZT1iZ {
   padding-top: 30px;
   padding-bottom: 30px;
-  background: linear-gradient(0deg, #232323, #ffffff);
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-s2PVuZT1iZ .mbr-iconfont-social {
   font-size: 32px;
