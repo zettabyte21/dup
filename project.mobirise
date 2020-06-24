@@ -816,7 +816,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "postToLoad": "2",
+            "postToLoad": "3",
             "facebookToken": "",
             "facebook": "",
             "twitter": "darukft",
