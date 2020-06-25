@@ -524,6 +524,9 @@
             },
             ".card-wrapper": {
               "height": "100%"
+            },
+            ".card-title": {
+              "text-align": "center"
             }
           },
           "_name": "features2",
