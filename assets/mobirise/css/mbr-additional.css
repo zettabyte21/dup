@@ -1234,13 +1234,6 @@ section.lazy-placeholder:after {
 .cid-s2P2u39MOS .item {
   padding-bottom: 2rem;
 }
-.cid-s2P2u39MOS .item-wrapper {
-  height: 100%;
-}
-.cid-s2P2u39MOS .item-wrapper img {
-  height: 100%;
-  object-fit: cover;
-}
 .cid-s2P2u39MOS .carousel-control,
 .cid-s2P2u39MOS .close {
   background: #1b1b1b;
