@@ -1230,7 +1230,7 @@ section.lazy-placeholder:after {
   background: #232323;
   padding-top: 60px;
   padding-bottom: 60px;
-  background: linear-gradient(45deg, #232323, #232323);
+  background: linear-gradient(45deg, #232323, #000000);
 }
 .cid-s2IfOTfFia .video-block {
   margin: auto;
