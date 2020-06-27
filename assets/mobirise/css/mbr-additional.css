@@ -2054,65 +2054,70 @@ section.lazy-placeholder:after {
 .cid-s36Flkdwau P {
   color: #767676;
 }
-.cid-s36CCKp7BG {
-  padding-top: 135px;
+.cid-s36HtFxhqF {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s36HtFxhqF h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s36HtFxhqF p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-s36HtFxhqF .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-s36HtFxhqF .mbr-section-btn a {
+  margin: 0;
+}
+.cid-s36HtFxhqF .mbr-text {
+  color: #767676;
+}
+.cid-s36HtFxhqF .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-s36HtFxhqF .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-s36HSiJM05 {
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-s36CCKp7BG .mbr-slider .carousel-control {
-  background: #1b1b1b;
+.cid-s36HSiJM05 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
 }
-.cid-s36CCKp7BG .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
+.cid-s36HSiJM05 p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
 }
-.cid-s36CCKp7BG .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
+.cid-s36HSiJM05 .mbr-section-btn {
+  padding-top: 2.5rem;
 }
-.cid-s36CCKp7BG .mbr-slider .modal-body .close {
-  background: #1b1b1b;
+.cid-s36HSiJM05 .mbr-section-btn a {
+  margin: 0;
 }
-.cid-s36CCKp7BG .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
+.cid-s36HSiJM05 .mbr-text {
+  color: #767676;
+}
+.cid-s36HSiJM05 .card-wrapper {
   height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-s36CCKp7BG .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-s36CCKp7BG .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-s36CCKp7BG .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-s36CCKp7BG .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+@media (max-width: 767px) {
+  .cid-s36HSiJM05 .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
 }
